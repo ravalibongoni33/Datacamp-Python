@@ -1,5 +1,5 @@
 # Datacamp-Python
-DataScientist with python course
+DataScientist with python course tutorial with hands on exercises.  
 
 
 
